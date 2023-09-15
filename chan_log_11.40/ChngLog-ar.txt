@@ -1,1 +1,1 @@
-{'ver1':'12', 'ver2':'92', 'ver3':'\n\n⭕️ ♨️تحديث جديد♨️\n\nإضافات ومميزات حصرية\n\n⭕️ ♨️ New Update♨️\n\nExclusive add-ons and features\n', 'dli':'https://t.me/NA_Whatsapp'}
+{'ver1':'12', 'ver2':'90', 'ver3':'\n\n⭕️ ♨️تحديث جديد♨️\n\nإضافات ومميزات حصرية\n\n⭕️ ♨️ New Update♨️\n\nExclusive add-ons and features\n', 'dli':'https://t.me/NA_Whatsapp'}
